@@ -1,4 +1,4 @@
-# api/endpoints/rag_router.py (수정 후)
+# api/endpoints/rag_router.py
 
 from fastapi import APIRouter
 # --- 아래 두 줄에서 'DataTide_back.' 부분을 삭제했습니다 ---

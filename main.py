@@ -1,7 +1,6 @@
 # main.py
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-# --- 아래 두 줄의 'DataTide_back.' 부분을 삭제했습니다 ---
 from api.router import api_router
 from services import rag_service
 
